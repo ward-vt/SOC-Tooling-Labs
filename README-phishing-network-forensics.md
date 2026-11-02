@@ -402,6 +402,6 @@ Screenshots: 16-phishing-btlo-submission-badge.png, 17-network-btlo-completion-b
 
 **T.W.**  
 GitHub: [ward-vt](https://github.com/ward-vt)  
-Certifications: CompTIA Security+, TryHackMe SOC Level 1
+Certifications: CompTIA Security+
 
 **Last Updated:** August 2026
